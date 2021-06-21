@@ -19,3 +19,8 @@ Este proyecto se ha realizado con fines educativos se esta utilizando la Program
  
 ### Información Técnica
  - Java 1.8 o superior
+
+
+## Diagrama de clases
+
+![alt text](https://github.com/OmarHHM/tienda/blob/master/UMLDiagrama.gif)
